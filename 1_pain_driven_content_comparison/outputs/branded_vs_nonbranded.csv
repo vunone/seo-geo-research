@@ -1,0 +1,3 @@
+segment,is_branded,queries,clicks,impressions,ctr,click_share
+non-branded,False,223,10,1732,0.005773672055427252,0.20408163265306123
+"branded (""achiv"")",True,7,39,1884,0.020700636942675158,0.7959183673469388

@@ -1,0 +1,9 @@
+cohort,position_band,pages,clicks,impressions,ctr
+blog (pain-driven),1-3,1,0,1,0.0
+blog (pain-driven),4-10,24,0,204,0.0
+blog (pain-driven),11-20,1,0,2,0.0
+blog (pain-driven),21+,2,0,8,0.0
+product (simple AI),1-3,6,0,16,0.0
+product (simple AI),4-10,223,32,5935,0.005391743892165122
+product (simple AI),11-20,36,8,698,0.011461318051575931
+product (simple AI),21+,51,5,799,0.006257822277847309

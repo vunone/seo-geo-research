@@ -1,0 +1,2 @@
+test,n_blog,n_product,blog_median_pos,product_median_pos,U,p_value,prob_blog_outranks_product
+Mann-Whitney U (blog position < product position),28,316,7.9,7.75,3983.0,0.19119803668760033,0.4501582278481013

@@ -1,0 +1,7 @@
+# Reproduce the analyses in this repository.
+#   python3 -m pip install -r requirements.txt
+# Loose lower bounds; any recent 2.x/1.x release works.
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+scipy>=1.10

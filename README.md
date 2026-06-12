@@ -14,8 +14,7 @@ charts and reproducible code.
 ## Data provenance
 
 Data comes from first-party search analytics for **[achiv.com](https://achiv.com)**
-— a directory of AI apps that publishes both AI-generated app pages and
-pain-point-driven blog posts:
+— a pain-driven content writer engine:
 
 - **Google Search Console** performance exports (Web search) — clicks,
   impressions, CTR, position — under each experiment's `gsc/` folder.
